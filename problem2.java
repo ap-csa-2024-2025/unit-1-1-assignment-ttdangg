@@ -11,6 +11,7 @@ public class problem2
 
         String name = "Tricia";
         System.out.println("Hello my name is " + name);
-        System.out.print("My age is " + myAge);
+        System.out.println("My age is " + myAge);
+        System.out.print("My name is " + name + " my age is " + myAge);
     }
 }
